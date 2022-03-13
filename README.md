@@ -1,5 +1,5 @@
 # Demo
 
-Hi, Huh this is the sample redme file.
+Hi, Huh this is the sample readme file.
 nah just a demo repository.
-haha nothing dpecial inside. :)
+haha nothing special inside. :)
